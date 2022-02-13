@@ -1,7 +1,7 @@
 ### Hello World!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 ---- 
 
-Prazer, sou a Daiana, sou uma eterna estudante!
+Prazer, sou a Daiana,uma eterna estudante!
 
 Sobre mim:
 
